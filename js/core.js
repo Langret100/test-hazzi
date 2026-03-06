@@ -276,7 +276,7 @@ const CHARACTERS = {
     key: "minsu",
     name: "성훈",
     basePath: "images/emotions_ma1/",
-    intro: (name) => name + "야. 오늘도 같이 놀아볼까?",
+    intro: (name) => name + ". 오늘도 같이 놀아볼까?",
   },
 };
 
